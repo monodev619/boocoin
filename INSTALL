@@ -1,0 +1,9 @@
+Building Boocoin
+
+See doc/readme-qt.rst for instructions on building Boocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Boocoin.
+
+See doc/build-*.txt for instructions on building boocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Boocoin.
